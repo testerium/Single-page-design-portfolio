@@ -470,6 +470,9 @@ main {
                 flex-direction: column;
 
                 .person_image {
+                    display: flex;
+                    justify-content: center;
+
                     img {
                         width: 300px;
                         position: unset;
