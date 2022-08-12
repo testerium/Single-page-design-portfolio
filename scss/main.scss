@@ -24,8 +24,15 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 38px auto 0 auto;
     width: 1110px;
+}
+
+header {
+    margin: 34px auto 0 auto;
+}
+
+footer {
+    margin: 0px auto 64px auto;
 }
 
 main {
